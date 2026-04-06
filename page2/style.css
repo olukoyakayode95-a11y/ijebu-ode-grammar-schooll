@@ -1,0 +1,39 @@
+.navbar-brand img {
+    height: 60px;
+    width: auto;
+}
+.school-name {
+    font-weight: 800;
+    font-size: 1.5rem;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #1a7431;
+}
+.nav-link {
+    color: #555 !important;
+    font-size: 1.1rem;
+    margin-left: 15px;
+}
+.nav-link.active {
+    color: #000 !important;
+    font-weight: 500;
+}
+.nav { 
+    font-size: 3.5rem; color: #198754 !important; 
+}
+.omo{
+    padding-top: 100px;
+    margin-top: 100px;
+
+}
+.glance{ font-size: 3.5rem;  
+}
+.abb{
+    padding-bottom: 80px;
+}
+.pp{
+    padding-top: 150px;
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

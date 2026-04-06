@@ -1,0 +1,43 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.form-container {
+    width: 100%;
+    max-width: 600px;
+    padding: 20px;
+}
+
+.form-control {
+    border-radius: 0;
+    padding: 15px;
+    border: none;
+    margin-bottom: 20px;
+}
+
+.form-control::placeholder {
+    color: #888;
+}
+
+.btn-submit {
+    background-color: white;
+    color: #333;
+    border: none;
+    padding: 10px 40px;
+    font-weight: bold;
+    border-radius: 5px;
+    font-family: serif;
+}
+
+h2 {
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+
+.pp{
+    padding-top: 150px;
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

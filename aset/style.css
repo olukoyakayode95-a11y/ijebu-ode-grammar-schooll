@@ -1,0 +1,80 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.hero-section {
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('https://i0.wp.com/thenigeriaeducationnews.com/wp-content/uploads/2025/09/IMG-20250904-WA0438.jpg?fit=1200%2C903&ssl=1');
+    background-size: cover;
+    background-position: center;
+    min-height: 80vh;
+    color: white;
+
+}
+.glance { font-size: 3.5rem; color: #198754; 
+}
+
+
+.btn-tour {
+    background-color: #198754;
+    color: white;
+    padding: 12px 30px;
+    border-radius: 50px;
+}
+.btn-tour:hover { background-color: #146c43; color: white; 
+}
+
+
+
+
+
+.cta-section {
+    background-color: #00a651; 
+    border-radius: 15px;
+    padding: 80px 20px;
+    color: white;
+    text-align: center;
+}
+
+.cta-title {
+    font-weight: 500;
+    font-size: 2rem;
+    margin-bottom: 30px;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.divider {
+    width: 60px;
+    height: 3px;
+    background-color: white;
+    margin: 0 auto 20px;
+}
+
+.custom-input {
+    border: none;
+    border-radius: 4px;
+    padding: 15px 20px;
+    width: 100%;
+    max-width: 400px;
+}
+
+.custom-btn {
+    background-color: white;
+    color: black;
+    border: none;
+    border-radius: 4px;
+    padding: 15px 40px;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+
+.custom-btn:hover {
+    background-color: #f8f9fa;
+}
+
+.pp{
+    padding-top: 150px;
+}
+.ap{
+    background-color: #e7f6ff;
+}
