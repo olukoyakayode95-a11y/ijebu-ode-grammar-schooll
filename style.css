@@ -1,5 +1,6 @@
 body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    overflow:auto
 }
 .hero-section {
     background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('https://i0.wp.com/thenigeriaeducationnews.com/wp-content/uploads/2025/09/IMG-20250904-WA0438.jpg?fit=1200%2C903&ssl=1');
@@ -9,7 +10,7 @@ body{
     color: white;
 
 }
-.glance { font-size: 3.5rem; color: #198754; 
+.glance { font-size: 2.5rem; color: #198754; 
 }
 
 
